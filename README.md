@@ -82,7 +82,7 @@ By identifying patterns in customer behavior, businesses can offer more targeted
 
 > Shows which value of K gives the best-defined clusters.
 
-![Silhouette Plot](https://i.imgur.com/zSgXHdA.png)
+![Silhouette Plot](https://github.com/ganne-gopi-chandu/elevatelabs-task8/blob/main/silhouette%20analysis.png)
 
 ---
 
