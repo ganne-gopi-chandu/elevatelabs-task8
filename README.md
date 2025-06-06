@@ -74,7 +74,7 @@ By identifying patterns in customer behavior, businesses can offer more targeted
 
 > Helps identify the “elbow point” where adding more clusters doesn’t significantly reduce inertia.
 
-![Elbow Plot](https://i.imgur.com/yRblK2k.png)
+![Elbow Plot](https://github.com/ganne-gopi-chandu/elevatelabs-task8/blob/main/elbow%20method.png)
 
 ---
 
