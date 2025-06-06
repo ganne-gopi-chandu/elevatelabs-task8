@@ -23,14 +23,13 @@ By identifying patterns in customer behavior, businesses can offer more targeted
 
 ---
 
-## Dependencies
+## 🛠️ Libraries Used
 
-| Tool           | Purpose                              |
-|----------------|--------------------------------------|
-| `pandas`       | Data loading and manipulation        |
-| `numpy`        | Numerical operations                 |
-| `matplotlib`   | Data visualization                   |
-| `scikit-learn` | K-Means, StandardScaler, PCA, Metrics|
+- `pandas` – Data manipulation  
+- `numpy` – Numerical operations  
+- `matplotlib` – Visualization  
+- `sklearn` – Clustering, preprocessing, evaluation  
+- `PCA` – For dimensionality reduction
 
 ---
 
@@ -90,7 +89,7 @@ By identifying patterns in customer behavior, businesses can offer more targeted
 
 > Visualizes customer clusters in 2D after dimensionality reduction.
 
-![Cluster Visualization](https://i.imgur.com/BsY1VGg.png)
+![Cluster Visualization](https://github.com/ganne-gopi-chandu/elevatelabs-task8/blob/main/clustering%20visualization.png)
 
 ---
 
