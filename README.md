@@ -104,13 +104,6 @@ By identifying patterns in customer behavior, businesses can offer more targeted
 
 ---
 
-## 📌 Business Implications
-
-- 📦 Target promotions to specific customer segments.
-- 🛒 Understand high-value customers' behavior.
-- 🎯 Allocate marketing budget effectively.
-
----
 
 ## 🧑‍💻 How to Run the Code
 
@@ -121,4 +114,4 @@ pip install pandas numpy matplotlib scikit-learn
 # 2. Place 'Mall_Customers.csv' in the same directory
 
 # 3. Run the script or Jupyter notebook
-python kmeans_clustering.py  # or run notebook cells
+mall.py  # or run notebook cells
